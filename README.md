@@ -94,7 +94,8 @@ Open the printed Local URL (usually `http://localhost:8501`) in your browser.
 
 ---
 
-## License
-MIT
+
+
 
 ---
+
